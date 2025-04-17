@@ -1,3 +1,2 @@
-# mini_game
-
-A new Flutter project.
+# Tic Tac game
+A Flutter project.
